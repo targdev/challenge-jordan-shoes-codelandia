@@ -1,0 +1,14 @@
+/* header */
+
+#header div h3 {
+    font-family: Montserrat, sans-serif;
+    font-size: 0.8rem;
+
+    color: #fff;
+    background-color: #000;
+}
+
+#header div h2 {
+    font-family: Montserrat, sans-serif;
+    font: 1rem;
+}
