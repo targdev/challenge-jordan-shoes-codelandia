@@ -13,21 +13,13 @@
 }
 
 /* main */
-#main {
+#main .bg-img {
     height: 378px;
 
     background-image: url(/img/wallpaper.jpeg);
     background-attachment: fixed;
     background-size: cover;
     
-    filter: brightness(50%);
-}
-
-#main .shop-name{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
 }
 
 #main .title,
@@ -35,6 +27,11 @@
     font-family: Montserrat, sans-serif;
     color: #fff;
 }
+
+#main .title {
+    font-size: 2.5rem;
+}
+
 
 /* section */
 #highlights .highlights,
