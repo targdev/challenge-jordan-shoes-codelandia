@@ -1,0 +1,51 @@
+/* header */
+#header .discount {
+    font-family: Montserrat, sans-serif;
+    font-size: 1.2rem;
+
+    color: #fff;
+    background-color: #000;
+}
+
+#header .logo {
+    font-family: Montserrat, sans-serif;
+    font: 2rem;
+}
+
+/* main */
+#main {
+    height: 378px;
+
+    background-image: url(/img/wallpaper.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+    
+    filter: brightness(50%);
+}
+
+#main .shop-name{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#main .title,
+#main .sub-title{
+    font-family: Montserrat, sans-serif;
+    color: #fff;
+}
+
+/* section */
+#highlights .highlights,
+#highlights .freight {
+    font-family: Montserrat, sans-serif;
+}
+
+#highlights .highlights {
+    font-size: 2.2rem;
+}
+
+#highlights .freight {
+    font-size: 1.4rem;
+}
