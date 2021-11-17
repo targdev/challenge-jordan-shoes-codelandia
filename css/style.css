@@ -54,9 +54,15 @@
 }
 
 /* section */
+#section .row {
+    width: auto;
+    height: auto;
+}
 #section img {
-    cursor: pointer;
+    width: auto;
+    height: auto;
 
+    cursor: pointer;
     transition: .5s;
 }
 
@@ -65,5 +71,9 @@
 }
 
 #section .shoes {
+    width: 280px;
+    height: 280px;
     background-color: #EBE9EA;
 }
+
+/*responsive*/
