@@ -27,17 +27,15 @@ Os desafios serão feitos no Figma onde qualquer pessoa pode acessá-lo e até d
 
 ## 🎯 Índice de desafios
 
-- [Desafio 01 - Blog](#id01)
+- [Desafio 02 - Blog](#id01)
 
 ---
 
 ### **Desafio 01 - Blog** <a name="id01"></a>
 
-![Desafio 01](/img/Home)
+![Desafio 02](/img/Home)
 
 Link do desafio no Figma: [Clique aqui](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=1973%3A39)
-
-Material de apoio: [Clique aqui](https://github.com/iuricode/desafios-codelandia/blob/main/material-de-apoio/material-de-apoio-desafio02.zip)
 
 ---
 
