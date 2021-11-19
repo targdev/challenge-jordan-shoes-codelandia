@@ -33,11 +33,11 @@ Os desafios serão feitos no Figma onde qualquer pessoa pode acessá-lo e até d
 
 ### **Desafio 01 - Blog** <a name="id01"></a>
 
-![Desafio 01](image/desafio1.svg)
+![Desafio 01](/img/Home)
 
-Link do desafio no Figma: [Clique aqui](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Codel%C3%A2ndia-Desafios?node-id=0%3A1)
+Link do desafio no Figma: [Clique aqui](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=1973%3A39)
 
-Material de apoio: [Clique aqui](https://github.com/iuricode/desafios-codelandia/blob/main/material-de-apoio/material-de-apoio-desafio01.zip)
+Material de apoio: [Clique aqui](https://github.com/iuricode/desafios-codelandia/blob/main/material-de-apoio/material-de-apoio-desafio02.zip)
 
 ---
 
