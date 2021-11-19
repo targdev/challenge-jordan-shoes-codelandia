@@ -1,0 +1,52 @@
+@media (max-width: 575.98px) {
+    #section .shoes {
+        width: auto;
+        height: 280px;
+        background-color: #EBE9EA;
+    }
+ }
+
+ @media (min-width: 576px) and (max-width: 767.98px) {
+     #section img {
+         width: 250px;
+         height: 130px;
+     } 
+    #section .shoes {
+        width: 300px;
+        height: 300px;
+        background-color: #EBE9EA;
+    }
+ }
+
+ @media (min-width: 768px) and (max-width: 991.98px) {
+    #section .shoes {
+        width: 355px;
+        height: 355px;
+        background-color: #EBE9EA;
+    }
+ }
+
+ @media (min-width: 992px) and (max-width: 1199.98px) {
+    #section .shoes {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        width: 475px;
+        height: 475px;
+        background-color: #EBE9EA;
+    }
+ }
+
+@media (min-width: 1200px) { 
+    #section .shoes {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        width: 280px;
+        height: 280px;
+        background-color: #EBE9EA;
+    }
+ }
+
