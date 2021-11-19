@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Wallpaper](image/wallpaper.png)
 
 <h2 align="center">
@@ -47,3 +48,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 Feito com 💜 by **Codelândia** [Entre na nossa comunidade!](https://discord.com/invite/QevDJqCzaY)
+=======
+# challenge-jordan-shoes-codelandia
+>>>>>>> 1f2d06871d79a7171fc414a0578cdafef1265ef5
