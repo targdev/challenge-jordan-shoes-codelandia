@@ -31,9 +31,9 @@ Os desafios serão feitos no Figma onde qualquer pessoa pode acessá-lo e até d
 
 ---
 
-### **Desafio 02 - Blog** <a name="id01"></a>
+### **Desafio 02 - Jordan Shoes** <a name="id01"></a>
 
-![Desafio 02](img/Home)
+![Desafio 02](img/desafio2.svg)
 
 Link do desafio no Figma: [Clique aqui](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=1973%3A39)
 
