@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-![Wallpaper](wallpaper.png)
+![Wallpaper](assets/wallpaper.png)
 
 <h2 align="center">
   Desafios Codelândia
