@@ -17,7 +17,7 @@
 #main .bg-img {
     height: 378px;
 
-    background-image: url(/img/wallpaper.jpeg);
+    background-image: url(/assets/img/wallpaper.jpeg);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -63,7 +63,6 @@
 }
 
 #section img:hover {
-    position: relative;
     transform: scale(1.1);
 }
 
