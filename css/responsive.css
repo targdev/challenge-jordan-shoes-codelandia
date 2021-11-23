@@ -1,16 +1,20 @@
 @media (max-width: 575.98px) {
-    #section .shoes {
+    #section img {
         width: auto;
+        height: 130px;
+    } 
+    #section .shoes {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        width: 99%;
         height: 280px;
         background-color: #EBE9EA;
     }
  }
 
  @media (min-width: 576px) and (max-width: 767.98px) {
-     #section img {
-         width: 250px;
-         height: 130px;
-     } 
     #section .shoes {
         width: 300px;
         height: 300px;
